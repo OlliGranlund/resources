@@ -16,6 +16,7 @@
 | 🇩🇪 | [Web-Bier](http://www.web-bier.de/) | Saksalaisia oluita |
 | 🇫🇷 | [Envie de Champagne](https://www.enviedechamp.com/en/) | Ranskalaisia shamppanjoita |
 | 🇵🇱 | [Funky Shop](https://funkyshop.pl/en/) | Puolalaisen Funky Fluid -panimon verkkokauppa. Valikoimassa myös muiden valmistajien tuotteita. | 
+| 🇵🇱 | [Piwne Mosty](https://www.piwnemosty.pl/) | Verkkokauppa isolla valikoimalla eri oluita, tilaukset kerryttävät palkintipisteitä joilla saa tuotteita/alennuksia | 
 
 # \#beer mutta viinit
 | FI | [Viinitarha](https://viinitarha.app/) | Suomen viinilista by akx | Erinomainen filtteröinti |
